@@ -63,4 +63,4 @@ Spotted a new AI tell, or a hero pattern that works? Open an issue or a pull req
 
 License
 
-MIT. See LICENSE.
+MIT. See LICENSE. 
